@@ -1,2 +1,3 @@
-# lorem-ipsum-e-teste-black-box
-Testando o black box IA e texto lorem ipsum
+Ia do blackbox Baixada pela aba de extensão do VSCode
+serve para ajudar nos codigos mas não abusar demais senão nunca aprendera sozinho
+usar como uma ferramenta facilitadora
